@@ -1,9 +1,9 @@
-# Proffy
+# Feedget Web
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/25290972/167264256-62235734-0cfb-4cd3-b1e8-0c47f6e94a25.png" alt="Feedget">
+  <img src="https://user-images.githubusercontent.com/25290972/167264256-62235734-0cfb-4cd3-b1e8-0c47f6e94a25.png" alt="Feedget Web">
 </div>
 
 <br>
